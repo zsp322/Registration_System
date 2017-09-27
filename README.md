@@ -1,1 +1,2 @@
-The registration system is a web application based on PHP and Mysql for both instructors and students schedule their clubs, classes and build up social connections between each other.
+The class and clubs registration system is CS4400 Project, which is a web application based on PHP and Mysql for both instructors and students schedule their clubs, classes and build up social connections between each other. 
+It defines three roles including Admin, instructor and students. Different role will have different ability of assigning tasks and different UI Design, which is finished based on jQuery and Bootstrap.
